@@ -5,7 +5,8 @@ persona =  {
 
 }
 
-
+if ():
+    pass
 operazioni = ("aggiungere", "modificare", "eliminare", "terminare")
 
 def start():
